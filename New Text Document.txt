@@ -1,2 +1,3 @@
 Hello dear,
 I am practicing git
+practing unit 1 about git configuration.
